@@ -58,9 +58,9 @@ canvas {
     max-width: 1120px;
 }
 
-#highlights {
+/* #highlights {
     scroll-margin-top: -100px;
-}
+} */
 
 html {
     scroll-behavior: smooth;
